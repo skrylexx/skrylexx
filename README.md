@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in .cybersecurity, pentesting and network.
+- 👀 I’m interested in cybersecurity, pentesting and network.
 - 🌱 I’m currently learning at the EPSI
 
 <!---
