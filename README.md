@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skrylexx
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in .computer science and japanese cars
 - 🌱 I’m currently learning at the EPSI
 
