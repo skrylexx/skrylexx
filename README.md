@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in cybersecurity, pentesting and network.
-- 🌱 I’m currently learning at the EPSI
+- 👀 I’m interested in cybersecurity (pentesting, network and data).
+- 🌱 I’m currently learning in first year at EPSI (engineering school).
 
-<!---
-skrylexx/skrylexx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I'm training my creativity for Web development.
+- Current skills : HTML / CSS, PHP and SQL, Bash / shell (Windows and Linux), Python, Canva / Google slide and OSINT.
