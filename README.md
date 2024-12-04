@@ -1,4 +1,4 @@
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=698627" style='border:none;'></iframe>  \
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=698627" /> \
 
 | TryHackMe | CodeWars |
 |-----------|----------|
