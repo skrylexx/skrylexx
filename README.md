@@ -10,7 +10,7 @@
 
 <br>
 
-```sh
+```console
 skrylexx@github:~$ ./display_profile.sh
 
 [INFO]  LOADING USER PROFILE...
