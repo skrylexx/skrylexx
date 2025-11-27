@@ -14,9 +14,9 @@
 skrylexx@github:~$ ./display_profile.sh
 
 [INFO]  LOADING USER PROFILE...
-[OK]    ROLE: Analyste SOC (Alternant)
-[OK]    LEVEL: Master Cybersécurité (Final Year)
-[OK]    BACKGROUND: Licence Infra/Réseaux (2 ans XP)
+[OK]    ROLE: SOC Analyst
+[OK]    LEVEL: MS Cybersecurity & TryHackMe
+[OK]    BACKGROUND: BS System & Networks
 [OK]    FOCUS: Detection, Automation, Hardening & Forensics
 
 skrylexx@github:~$ cat stack_check.log
