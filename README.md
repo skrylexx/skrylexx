@@ -20,7 +20,7 @@ skrylexx@github:~$ ./display_profile.sh
 [OK]    FOCUS: Detection, Automation, Hardening & Forensics
 
 skrylexx@github:~$ cat stack_check.log
-> Automatisation: Python, PowerShell, Bash
+> Automatisation: Python, PowerShell, Bash, JavaScript, Go
 > SIEM/EDR: Elastic Stack, Wazuh, Sekoia.io, HarfangLab
 > Infra: Windows Server, Linux (Hardening), Network Config
 ````
