@@ -57,7 +57,7 @@ skrylexx@github:~$ cat stack_check.log
 ### TRAFFIC ANALYSIS
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/skrylexx/skrylexx/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/skrylexx/skrylexx/main/github-metrics.svg" alt="Metrics" width="60%">
 </div>
 
 <br>
