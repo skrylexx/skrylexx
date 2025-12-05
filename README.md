@@ -57,10 +57,7 @@ skrylexx@github:~$ cat stack_check.log
 ### TRAFFIC ANALYSIS
 
 <div align="center">
-  <a href="https://github.com/skrylexx">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=skrylexx&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skrylexx&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
-  </a>
+  <img src="https://github.com/skrylexx/skrylexx/blob/master/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 <br>
