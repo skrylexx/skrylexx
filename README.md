@@ -60,7 +60,6 @@ skrylexx@github:~$ cat stack_check.log
   <img src="https://raw.githubusercontent.com/skrylexx/skrylexx/main/github-metrics.svg" alt="Metrics" width="60%">
 </div>
 
-<br>
 
 ### CERTIFICATION LOGS
 
